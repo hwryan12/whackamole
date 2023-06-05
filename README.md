@@ -1,24 +1,9 @@
-# README
+# WhackAMole
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is made for the Turing Mod4 Hackathon. Due to time constraints, I was not able to complete as much of this as I had hoped
 
-Things you may want to cover:
+## The Game
 
-* Ruby version
+Click the red square as fast as you can and see how high a score you can get!
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You will need to run this on a localhost server and make sure to install all the dependencies.
